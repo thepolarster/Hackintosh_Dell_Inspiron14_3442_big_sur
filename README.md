@@ -14,7 +14,7 @@
 <p>Intel HD 4400</p>
 <p>Regulagem de Brilho</p>
 <p>ALC corrigida</p>
-<p>Teclado e TrackPad (Sem Duplo Clique)</p>
+<p>Teclado e TrackPad </p>
 <p>HDMI (Sem Áudio)</p>
 <p>USB</p>
 <p>TurboBooster CPU i5 4210U 2,70Ghz</p>
