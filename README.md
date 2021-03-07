@@ -2,7 +2,10 @@
 <h1>Lembrete: </h1>
 <p>
   -Utilize a EFI de Instalação para fazer instalação do BigSur e somente logo após utilize a EFI corrigida.
-  -Lembre-se de mudar o Número de Serial.
+</p>
+<p>  -Lembre-se de mudar o Número de Serial.
+</p>
+<p>
   -Utilize a versão certa do CloverConfigurator.
 </p>
 <h2>Funcionando:</h2>
