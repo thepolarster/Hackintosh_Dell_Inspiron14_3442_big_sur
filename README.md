@@ -1,4 +1,8 @@
 # Hackintosh Dell Inpiron 14 3442 MacOS BigSur
+<h1>Lembrete: </h1>
+<p>
+  Use a EFI de Instalação para Instalar o MacOS BigSur e somente depois utilize a EFI corrigida.
+</p>
 <h2>Funcionando:</h2>
 <hr></hr>
 <p>WI-FI Atheros 9565</p>
