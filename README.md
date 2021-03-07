@@ -1,4 +1,4 @@
-# Hackintosh Dell Inpiron 14 3442 MacOS BigSur
+# Hackintosh Dell Inspiron 14 3442 MacOS BigSur
 <h1>Lembrete: </h1>
 <p>
   -Utilize a EFI de Instalação para fazer instalação do BigSur e somente logo após utilize a EFI corrigida.
@@ -6,7 +6,7 @@
 <p>  -Lembre-se de mudar o Número de Serial.
 </p>
 <p>
-  -Utilize a versão certa do CloverConfigurator.
+  -Utilize a versão certa do OpenCoreConfigurator.
 </p>
 <h2>Funcionando:</h2>
 <hr></hr>
